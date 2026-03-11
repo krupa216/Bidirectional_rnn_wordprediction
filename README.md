@@ -10,16 +10,20 @@ The model is trained on a text corpus where sentences are tokenized and converte
 
 The system uses TensorFlow and Keras for model development, along with tokenization and sequence padding techniques for text preprocessing. After training, the model is saved along with the tokenizer to enable future predictions without retraining.
 
-The trained model can be used in applications such as text autocomplete, chatbots, typing assistants, and intelligent writing tools, where predicting the next word improves typing efficiency and user experience.
-
 **Tools Used**
 
 Programming Language: Python
+
 Deep Learning: TensorFlow, Keras
+
 Model: Bidirectional LSTM
+
 Backend: Flask
+
 Libraries: NumPy, Flask-CORS
+
 Model Storage: HDF5 (.h5), Pickle (.pkl)
+
 Frontend: HTML, CSS, JavaScript
 
 **Output**
