@@ -28,4 +28,5 @@ Frontend: HTML, CSS, JavaScript
 
 **Output**
 
-![Uploading Screenshot 2026-03-11 184851.png…]()
+<img width="1143" height="705" alt="Screenshot 2026-03-11 184851" src="https://github.com/user-attachments/assets/5a39c24a-0888-45cc-b687-a6448218e92b" />
+
